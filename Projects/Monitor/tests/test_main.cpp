@@ -2,9 +2,7 @@
 // Start writing the test cases
 
 #include <gtest/gtest.h>
-#include <gmock/gmock.h>
 
-#include "main.h"
 
 using namespace testing;
 
