@@ -6,8 +6,8 @@ Status Legend:
 
 ✅ Yes (Completed)
 
-Tasks:
-
+List of tasks to be finished:
+=============================
 1️⃣ Create a Sample C Project
 
 [❌] Create a basic C project structure
