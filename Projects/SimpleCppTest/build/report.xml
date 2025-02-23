@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="3" failures="1" disabled="0" errors="0" time="0" timestamp="2025-02-18T10:32:12.314" name="AllTests">
+  <testsuite name="MathOperations" tests="2" failures="1" disabled="0" skipped="0" errors="0" time="0" timestamp="2025-02-18T10:32:12.314">
+    <testcase name="Add1" status="run" result="completed" time="0" timestamp="2025-02-18T10:32:12.314" classname="MathOperations">
+      <failure message="/home/kamal/Documents/1.Git/GTestTutorial/GTestIntegration/Projects/SimpleCppTest/test_example.cpp:9&#x0A;Expected equality of these values:&#x0A;  6&#x0A;  add(2, 3)&#x0A;    Which is: 5" type=""><![CDATA[/home/kamal/Documents/1.Git/GTestTutorial/GTestIntegration/Projects/SimpleCppTest/test_example.cpp:9
+Expected equality of these values:
+  6
+  add(2, 3)
+    Which is: 5]]></failure>
+    </testcase>
+    <testcase name="Add2" status="run" result="completed" time="0" timestamp="2025-02-18T10:32:12.314" classname="MathOperations" />
+  </testsuite>
+  <testsuite name="MathOperations_sub" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2025-02-18T10:32:12.314">
+    <testcase name="Subtract1" status="run" result="completed" time="0" timestamp="2025-02-18T10:32:12.314" classname="MathOperations_sub" />
+  </testsuite>
+</testsuites>

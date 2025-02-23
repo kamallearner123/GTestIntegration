@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/SimpleCppTest.dir/mock_example.cpp.o CMakeFiles/SimpleCppTest.dir/src_mock_example.cpp.o -o SimpleCppTest  -lgtest -lgtest_main 

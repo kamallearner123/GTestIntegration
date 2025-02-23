@@ -1,0 +1,4 @@
+/home/kamal/Documents/1.Git/GTestTutorial/GTestIntegration/Projects/SimpleCppTest/build/CMakeFiles/SimpleCppTest.dir
+/home/kamal/Documents/1.Git/GTestTutorial/GTestIntegration/Projects/SimpleCppTest/build/CMakeFiles/test.dir
+/home/kamal/Documents/1.Git/GTestTutorial/GTestIntegration/Projects/SimpleCppTest/build/CMakeFiles/edit_cache.dir
+/home/kamal/Documents/1.Git/GTestTutorial/GTestIntegration/Projects/SimpleCppTest/build/CMakeFiles/rebuild_cache.dir
